@@ -19,7 +19,7 @@
   
   <br>
   
-  [Link to codes and results]()
+  [Link to codes and results](https://github.com/nelsonxw/Social_Analytics/blob/master/Sentiments.ipynb)
 
 ```python
 # import dependencies
