@@ -1,4 +1,25 @@
+# News Mood
 
+* Observed trend 1  
+  Based on the most recent 100 tweets from the five news media, the overall sentiments of the tweets are relatively neutral.  The sentiment compound score has a wide spread from positive to negative but centralized around 0.
+  
+  
+  <br>
+
+* Observed trend 2  
+  Among the five news media, the sentiment of CBS News is relatively more negative than others, and New York Times are more neutral than others.
+  
+  
+  <br>
+  
+
+* Observed trend 3  
+  The pattern or trend of the sentiment is not changing with time from the first tweet till the 100th tweet.  Seems the mood of media is stable as of report date.
+  
+  
+  <br>
+  
+  [Link to codes and results]()
 
 ```python
 # import dependencies
